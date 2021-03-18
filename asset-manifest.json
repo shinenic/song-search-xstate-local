@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/song-search-xstate-local/static/css/main.3cb53230.chunk.css",
-    "main.js": "/song-search-xstate-local/static/js/main.7dd54f85.chunk.js",
-    "main.js.map": "/song-search-xstate-local/static/js/main.7dd54f85.chunk.js.map",
+    "main.js": "/song-search-xstate-local/static/js/main.961b6e05.chunk.js",
+    "main.js.map": "/song-search-xstate-local/static/js/main.961b6e05.chunk.js.map",
     "runtime-main.js": "/song-search-xstate-local/static/js/runtime-main.1f90d648.js",
     "runtime-main.js.map": "/song-search-xstate-local/static/js/runtime-main.1f90d648.js.map",
     "static/js/2.b65ce102.chunk.js": "/song-search-xstate-local/static/js/2.b65ce102.chunk.js",
     "static/js/2.b65ce102.chunk.js.map": "/song-search-xstate-local/static/js/2.b65ce102.chunk.js.map",
     "index.html": "/song-search-xstate-local/index.html",
-    "precache-manifest.c7a79177fee00ccd5fdc77a7b06b3dbc.js": "/song-search-xstate-local/precache-manifest.c7a79177fee00ccd5fdc77a7b06b3dbc.js",
+    "precache-manifest.8f0831388a2632ea645c604d05940730.js": "/song-search-xstate-local/precache-manifest.8f0831388a2632ea645c604d05940730.js",
     "service-worker.js": "/song-search-xstate-local/service-worker.js",
     "static/css/main.3cb53230.chunk.css.map": "/song-search-xstate-local/static/css/main.3cb53230.chunk.css.map",
     "static/js/2.b65ce102.chunk.js.LICENSE.txt": "/song-search-xstate-local/static/js/2.b65ce102.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.1f90d648.js",
     "static/js/2.b65ce102.chunk.js",
     "static/css/main.3cb53230.chunk.css",
-    "static/js/main.7dd54f85.chunk.js"
+    "static/js/main.961b6e05.chunk.js"
   ]
 }
