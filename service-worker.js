@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/song-search-xstate-local/precache-manifest.f28a13678af3a18222a0c8fbae12e8b2.js"
+  "/song-search-xstate-local/precache-manifest.e9b30677763e6eb98f1fa7a7d95c3a75.js"
 );
 
 self.addEventListener('message', (event) => {
