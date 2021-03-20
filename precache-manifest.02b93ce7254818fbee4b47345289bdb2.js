@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5374d5fa62bad2e1839e1e21f36088b4",
+    "revision": "eb308df751aa546fcc90ca50719dce77",
     "url": "/song-search-xstate-local/index.html"
   },
   {
-    "revision": "b14d24a23fe54a018911",
+    "revision": "c6b6b1a5b20a003daec5",
     "url": "/song-search-xstate-local/static/css/main.62a638b1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b14d24a23fe54a018911",
-    "url": "/song-search-xstate-local/static/js/main.13d67a7f.chunk.js"
+    "revision": "c6b6b1a5b20a003daec5",
+    "url": "/song-search-xstate-local/static/js/main.35291322.chunk.js"
   },
   {
     "revision": "ac360cb5fd05a677585a",
