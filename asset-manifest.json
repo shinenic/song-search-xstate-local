@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/song-search-xstate-local/static/css/main.62a638b1.chunk.css",
-    "main.js": "/song-search-xstate-local/static/js/main.35291322.chunk.js",
-    "main.js.map": "/song-search-xstate-local/static/js/main.35291322.chunk.js.map",
+    "main.css": "/song-search-xstate-local/static/css/main.3ff23570.chunk.css",
+    "main.js": "/song-search-xstate-local/static/js/main.50cd911e.chunk.js",
+    "main.js.map": "/song-search-xstate-local/static/js/main.50cd911e.chunk.js.map",
     "runtime-main.js": "/song-search-xstate-local/static/js/runtime-main.1f90d648.js",
     "runtime-main.js.map": "/song-search-xstate-local/static/js/runtime-main.1f90d648.js.map",
-    "static/js/2.1461dc9a.chunk.js": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js",
-    "static/js/2.1461dc9a.chunk.js.map": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js.map",
+    "static/js/2.56142fea.chunk.js": "/song-search-xstate-local/static/js/2.56142fea.chunk.js",
+    "static/js/2.56142fea.chunk.js.map": "/song-search-xstate-local/static/js/2.56142fea.chunk.js.map",
     "index.html": "/song-search-xstate-local/index.html",
-    "precache-manifest.02b93ce7254818fbee4b47345289bdb2.js": "/song-search-xstate-local/precache-manifest.02b93ce7254818fbee4b47345289bdb2.js",
+    "precache-manifest.eaa86db31b95a53835f01faae9bf72cf.js": "/song-search-xstate-local/precache-manifest.eaa86db31b95a53835f01faae9bf72cf.js",
     "service-worker.js": "/song-search-xstate-local/service-worker.js",
-    "static/css/main.62a638b1.chunk.css.map": "/song-search-xstate-local/static/css/main.62a638b1.chunk.css.map",
-    "static/js/2.1461dc9a.chunk.js.LICENSE.txt": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js.LICENSE.txt",
+    "static/css/main.3ff23570.chunk.css.map": "/song-search-xstate-local/static/css/main.3ff23570.chunk.css.map",
+    "static/js/2.56142fea.chunk.js.LICENSE.txt": "/song-search-xstate-local/static/js/2.56142fea.chunk.js.LICENSE.txt",
     "static/media/cross.svg": "/song-search-xstate-local/static/media/cross.4f744e82.svg",
     "static/media/loading.svg": "/song-search-xstate-local/static/media/loading.0f51771c.svg",
     "static/media/search.svg": "/song-search-xstate-local/static/media/search.fa72ba04.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f90d648.js",
-    "static/js/2.1461dc9a.chunk.js",
-    "static/css/main.62a638b1.chunk.css",
-    "static/js/main.35291322.chunk.js"
+    "static/js/2.56142fea.chunk.js",
+    "static/css/main.3ff23570.chunk.css",
+    "static/js/main.50cd911e.chunk.js"
   ]
 }

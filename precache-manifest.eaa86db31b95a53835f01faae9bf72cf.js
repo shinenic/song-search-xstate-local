@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb308df751aa546fcc90ca50719dce77",
+    "revision": "8b42d627b832987b2e36e049003f53fc",
     "url": "/song-search-xstate-local/index.html"
   },
   {
-    "revision": "c6b6b1a5b20a003daec5",
-    "url": "/song-search-xstate-local/static/css/main.62a638b1.chunk.css"
+    "revision": "e1adbfe9260cb191581b",
+    "url": "/song-search-xstate-local/static/css/main.3ff23570.chunk.css"
   },
   {
-    "revision": "584cae9f35543b4e518e",
-    "url": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js"
+    "revision": "f084ef06de9bccbb429f",
+    "url": "/song-search-xstate-local/static/js/2.56142fea.chunk.js"
   },
   {
     "revision": "28f0b8d5b390aa0fe7256bb817e49e90",
-    "url": "/song-search-xstate-local/static/js/2.1461dc9a.chunk.js.LICENSE.txt"
+    "url": "/song-search-xstate-local/static/js/2.56142fea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b6b1a5b20a003daec5",
-    "url": "/song-search-xstate-local/static/js/main.35291322.chunk.js"
+    "revision": "e1adbfe9260cb191581b",
+    "url": "/song-search-xstate-local/static/js/main.50cd911e.chunk.js"
   },
   {
     "revision": "ac360cb5fd05a677585a",
